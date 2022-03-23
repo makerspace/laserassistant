@@ -1,6 +1,3 @@
-# Laser Cutting at the Stockholm Makerspace
+# Logger of Laser usage for Lasers with Ruida controller
 
-This repo contains files related to laser cutting at the Stockholm Makerspace.
-
-  * For details about the laser cutter see the page on the wiki: https://wiki.makerspace.se/Redsail_Laser
-  * For more information about the makerspace see the website: https://makerspace.se/
+Asks the Laser for it usage time and prints it
